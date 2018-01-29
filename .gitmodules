@@ -1,0 +1,6 @@
+[submodule "clinvar-ontology"]
+	path = clinvar-ontology
+	url = https://github.com/dbcls/clinvar-ontology
+[submodule "clinvar-converter"]
+	path = clinvar-converter
+	url = https://github.com/ktym/clinvar_rdf
